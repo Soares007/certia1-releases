@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="certia1-brand.png" alt="Logo certiA1" width="112">
-</p>
-
 <h1 align="center">certiA1</h1>
 
 <p align="center">
